@@ -8,15 +8,6 @@
  * When the game completes, the player is asked to play
  * again or quit the game.  
 *******************************************************/
- 
-//The player gets 10 tries to guess the number. After each guess the program tells the player 
-//whether that guess was too high or too low. If the player guesses correctly, the game displays 
-//their points (Each player starts with 10 points and loses one with each guess.) Then it asks 
-//the player whether he or she wants to play again. If the player says yes, the game is reset 
-//and the player gets 10 more guesses at a new number; if the player says no, the game thanks 
-//them for playing and ceases.
-//Break the code into appropriate methods. Use java naming conventions. 
-//Document your code with a header and comments as needed.
 
 package com.emilyshine.Assignment_2;
 
